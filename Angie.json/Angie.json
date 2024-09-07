@@ -1,0 +1,27 @@
+{
+    "nombre": "El Señor de los Anillos: La Comunidad del Anillo",
+    "descripcion": "Primera parte de la épica trilogía de J.R.R. Tolkien, donde Frodo emprende un viaje para destruir el Anillo Único.",
+    "precio": 19.99,
+    "categoria": "Libros -> Fantasía",
+    "imagenes": [
+      "https://ejemplo.com/imagenes/libro_portada.jpg",
+      "https://ejemplo.com/imagenes/libro_contraportada.jpg"
+    ],
+    "stock": 120,
+    "autor": "J.R.R. Tolkien",
+    "editorial": "HarperCollins",
+    "fecha_publicacion": "1954-07-29",
+    "calificaciones": [
+      {
+        "usuario": "JuanPerez123",
+        "calificacion": 5,
+        "comentario": "Una obra maestra de la literatura fantástica."
+      },
+      {
+        "usuario": "AnaGomez456",
+        "calificacion": 4,
+        "comentario": "Una historia increíble, aunque un poco densa en algunas partes."
+      }
+    ]
+  }
+  
